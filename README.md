@@ -20,6 +20,7 @@ Put in the correct register values specific to your situation
 register_temp_setpoint_downstairs = "9700" # Example value
 register_temp_setpoint_upstairs = "FE00" # Example value
 ```
+Note: The values written to the registers are converted to type D2C by the script.
 
 ## Usage
 ```bash
